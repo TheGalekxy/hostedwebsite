@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thegalekxy.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/thegalekxy.github.io/static/js/main.7f19eecc.chunk.js",
-    "main.js.map": "/thegalekxy.github.io/static/js/main.7f19eecc.chunk.js.map",
+    "main.js": "/thegalekxy.github.io/static/js/main.eb07ca7f.chunk.js",
+    "main.js.map": "/thegalekxy.github.io/static/js/main.eb07ca7f.chunk.js.map",
     "runtime-main.js": "/thegalekxy.github.io/static/js/runtime-main.65d9b0ef.js",
     "runtime-main.js.map": "/thegalekxy.github.io/static/js/runtime-main.65d9b0ef.js.map",
     "static/js/2.39e49774.chunk.js": "/thegalekxy.github.io/static/js/2.39e49774.chunk.js",
     "static/js/2.39e49774.chunk.js.map": "/thegalekxy.github.io/static/js/2.39e49774.chunk.js.map",
     "index.html": "/thegalekxy.github.io/index.html",
-    "precache-manifest.ddaa608224fd0f1f91b9bd9f46df0f28.js": "/thegalekxy.github.io/precache-manifest.ddaa608224fd0f1f91b9bd9f46df0f28.js",
+    "precache-manifest.0135a1cfaea4274e432789b71fac7b4a.js": "/thegalekxy.github.io/precache-manifest.0135a1cfaea4274e432789b71fac7b4a.js",
     "service-worker.js": "/thegalekxy.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/thegalekxy.github.io/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.39e49774.chunk.js.LICENSE.txt": "/thegalekxy.github.io/static/js/2.39e49774.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.65d9b0ef.js",
     "static/js/2.39e49774.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7f19eecc.chunk.js"
+    "static/js/main.eb07ca7f.chunk.js"
   ]
 }

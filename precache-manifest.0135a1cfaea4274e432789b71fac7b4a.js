@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ee22b2940f000e157548fea427d3787",
+    "revision": "68328302e9cc97cd492f90b56889f243",
     "url": "/thegalekxy.github.io/index.html"
   },
   {
-    "revision": "41b8fcfa0088aca7ee86",
+    "revision": "55e2cf92b009811a6bcb",
     "url": "/thegalekxy.github.io/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thegalekxy.github.io/static/js/2.39e49774.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41b8fcfa0088aca7ee86",
-    "url": "/thegalekxy.github.io/static/js/main.7f19eecc.chunk.js"
+    "revision": "55e2cf92b009811a6bcb",
+    "url": "/thegalekxy.github.io/static/js/main.eb07ca7f.chunk.js"
   },
   {
     "revision": "eb8488b4a8a2c79af64a",
